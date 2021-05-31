@@ -2,7 +2,7 @@
 
 ## Objectif ECF4
 
-Réalisez un site vitrine sur la base d’un CMS en répondant à la demande client.
+Le client, Monsieur Do souhaite afin de consulter les activités sportives et culturelles du pays
 
 ## Cahier des charges:
 
