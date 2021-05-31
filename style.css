@@ -1,0 +1,13 @@
+/*
+Theme Name: Le-pays
+Theme URI: https://capitainewp.io
+Author: Julien WALLES
+Author URI: https://dysign.fr
+Description: Mon premier thème !
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+.header {
+    background-image: url(/logo/logo_lepays.png);
+}
