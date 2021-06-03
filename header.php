@@ -18,14 +18,12 @@
 
             <a href="<?php echo home_url( '/' ); ?>">
                 <img src="<?php echo get_template_directory_uri(); ?>/logo/logo_lepays.png" alt="Logo">
-                <nav class="navbar navbar-expand-lg navbar-light bg-success">
+                <nav class="navbar navbar-expand-lg navbar-light bg-warning">
                     <!-- Brand and toggle button -->
-                    <a class="navbar-brand" href="#">Navbar</a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse"
-                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
+                    <a class="navbar-brand" href="#">HOME</a>
+                    <a class="navbar-brand" href="#">CULTURE</a>
+                    <a class="navbar-brand" href="#">SPORT</a>
+                    <a class="navbar-brand" href="#">CONTACT</a>
             </a>
             <!-- End -->
             <!-- Your website Links -->
